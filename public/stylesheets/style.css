@@ -1,16 +1,61 @@
 body {
   padding-top: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  background-color: lightyellow;
 }
 
 a {
   color: #00B7FF;
 }
 
-h1{
+*{
   font-family: cursive;
+}
+
+h1{
   text-align: center;
   color: forestgreen;
-  padding-top: 100px;
+  padding-top: 90px;
 }
-nav~
+
+h2{
+  color: forestgreen;
+}
+
+h3{
+  text-align: left;
+  color: forestgreen;
+  text-decoration: underline;
+}
+
+nav a{
+  font-size: 1.3em;
+}
+
+nav li{
+  padding-right: 10px;
+}
+
+.content{
+  margin-left: 45px;
+  margin-right: 45px;
+
+}
+
+p{
+  font-size: large;
+  text-align: justify-all;
+}
+
+table{
+  width: 100%;
+}
+
+table th{
+  font-size: larger;
+}
+
+table th,td{
+  text-align: center;
+  border: 2px solid forestgreen;
+}
