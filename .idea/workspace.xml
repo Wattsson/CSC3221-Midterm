@@ -9,9 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a38ce49-6c23-47f6-b965-3a9f45cf65b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5a38ce49-6c23-47f6-b965-3a9f45cf65b7" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,7 +75,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603407401101</updated>
       <workItem from="1603407403696" duration="2818000" />
-      <workItem from="1603411984862" duration="73444000" />
+      <workItem from="1603411984862" duration="73828000" />
     </task>
     <task id="LOCAL-00001" summary="creation of the basic layout with a navbar">
       <created>1603440873122</created>
