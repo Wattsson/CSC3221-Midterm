@@ -57,5 +57,26 @@ table th{
 
 table th,td{
   text-align: center;
-  border: 2px solid forestgreen;
+  border: 2px dashed forestgreen;
 }
+
+.titleBlock{
+  border-style: dotted solid;
+  border-width: 5px;
+  border-color: #228d22;
+  height: 67px;
+  width: 50%;
+  margin-left: 25%;
+  background-color: #eeee00;
+}
+
+hr{
+  border: 4px solid forestgreen;
+  border-radius: 2px;
+  margin-right: 10px;
+}
+
+.basich1{
+  padding-top: 0;
+}
+
