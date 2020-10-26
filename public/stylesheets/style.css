@@ -39,6 +39,8 @@ nav li{
 .content{
   margin-left: 45px;
   margin-right: 45px;
+  padding-left: 10px;
+  padding-bottom: 10px;
 
 }
 
@@ -92,3 +94,17 @@ table th,td{
   text-align: center;
   font-size: 25px;
 }
+
+form label{
+  font-size: xx-large;
+  color: forestgreen;
+}
+
+.formHead{
+  font-size: medium;
+}
+
+div[class="form-check"]{
+  margin: 35px
+}
+
