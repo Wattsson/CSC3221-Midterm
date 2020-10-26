@@ -13,9 +13,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/restaurants/ballard.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/ballard.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/restaurants/queenAnne.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/queenAnne.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/restaurants/questions.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/questions.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/restaurants/universityWay.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/universityWay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +81,7 @@
       <updated>1603407401101</updated>
       <workItem from="1603407403696" duration="2818000" />
       <workItem from="1603411984862" duration="76377000" />
-      <workItem from="1603680941264" duration="19553000" />
+      <workItem from="1603680941264" duration="20642000" />
     </task>
     <task id="LOCAL-00001" summary="creation of the basic layout with a navbar">
       <created>1603440873122</created>
@@ -134,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603690626169</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="finished basic form">
+      <created>1603704140961</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603704140961</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,17 +152,18 @@
     <MESSAGE value="completed menu.html" />
     <MESSAGE value="completed deals.html" />
     <MESSAGE value="All thats left is locations and questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="All thats left is locations and questions" />
+    <MESSAGE value="finished basic form" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished basic form" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603435110477">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1603435110477" />
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1603690625515">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1603704139603">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1603690625515" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1603704139603" />
     <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1603622815121">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -178,14 +184,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1603624905032" />
-    <state x="233" y="80" key="Vcs.Push.Dialog.v2" timestamp="1603690628209">
+    <state x="233" y="80" key="Vcs.Push.Dialog.v2" timestamp="1603704143527">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1603690628209" />
-    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603702685424">
+    <state x="233" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1603704143527" />
+    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603733307188">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1603702685424" />
+    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1603733307188" />
     <state x="458" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603537752462">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
