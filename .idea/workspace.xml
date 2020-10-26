@@ -9,7 +9,16 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a38ce49-6c23-47f6-b965-3a9f45cf65b7" name="Default Changelist" comment="" />
+    <list default="true" id="5a38ce49-6c23-47f6-b965-3a9f45cf65b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/restaurants/ballard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurants/queenAnne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/restaurants/universityWay.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurants/deals.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/deals.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurants/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurants/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,9 +69,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -75,7 +84,8 @@
       <option name="presentableId" value="Default" />
       <updated>1603407401101</updated>
       <workItem from="1603407403696" duration="2818000" />
-      <workItem from="1603411984862" duration="73828000" />
+      <workItem from="1603411984862" duration="76377000" />
+      <workItem from="1603680941264" duration="6777000" />
     </task>
     <task id="LOCAL-00001" summary="creation of the basic layout with a navbar">
       <created>1603440873122</created>
@@ -135,30 +145,34 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1603620580630" />
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1603537983164">
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1603622815121">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1603537983164" />
-    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1603537983164">
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1603622815121" />
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom" timestamp="1603624905032">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1603537983164" />
-    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1603537983164">
+    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1603624905032" />
+    <state width="1237" height="176" key="GridCell.Tab.0.center" timestamp="1603624905032">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1603537983164" />
-    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1603537983164">
+    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1603624905032" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left" timestamp="1603624905032">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1603537983164" />
+    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1603624905032" />
+    <state width="1237" height="176" key="GridCell.Tab.0.right" timestamp="1603624905032">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1603624905032" />
     <state x="233" y="80" key="Vcs.Push.Dialog.v2" timestamp="1603620502253">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="233" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1603620502253" />
-    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603619401312">
+    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603688726768">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1603619401312" />
+    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1603688726768" />
     <state x="458" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603537752462">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
