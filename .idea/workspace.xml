@@ -5,15 +5,13 @@
   </component>
   <component name="CMakeSettings">
     <configurations>
-      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
     </configurations>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a38ce49-6c23-47f6-b965-3a9f45cf65b7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/restaurants/ballard.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/ballard.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/restaurants/queenAnne.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/queenAnne.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/stylesheets/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/restaurants/questions.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/restaurants/questions.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +47,13 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
-    <property name="javascript.nodejs.core.library.typings.version" value="12.19.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.20.33" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -65,7 +65,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -81,7 +81,13 @@
       <updated>1603407401101</updated>
       <workItem from="1603407403696" duration="2818000" />
       <workItem from="1603411984862" duration="76377000" />
-      <workItem from="1603680941264" duration="22511000" />
+      <workItem from="1603680941264" duration="22936000" />
+      <workItem from="1604295793861" duration="23000" />
+      <workItem from="1606721408247" duration="896000" />
+      <workItem from="1606722640380" duration="218000" />
+      <workItem from="1606867785883" duration="1242000" />
+      <workItem from="1607041877246" duration="545000" />
+      <workItem from="1634861270653" duration="323000" />
     </task>
     <task id="LOCAL-00001" summary="creation of the basic layout with a navbar">
       <created>1603440873122</created>
@@ -153,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603733655687</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="finished product">
+      <created>1603735640788</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603735640788</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,17 +181,18 @@
     <MESSAGE value="All thats left is locations and questions" />
     <MESSAGE value="finished basic form" />
     <MESSAGE value="working on locations" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on locations" />
+    <MESSAGE value="finished product" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished product" />
   </component>
   <component name="WindowStateProjectService">
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603435110477">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="371" y="107" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.720@0.0.1280.720" timestamp="1603435110477" />
-    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1603733655012">
+    <state x="264" y="0" key="CommitChangelistDialog2" timestamp="1603735639388">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1603733655012" />
+    <state x="264" y="0" key="CommitChangelistDialog2/0.0.1280.720@0.0.1280.720" timestamp="1603735639388" />
     <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1603622815121">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -199,14 +213,14 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1603624905032" />
-    <state x="233" y="80" key="Vcs.Push.Dialog.v2" timestamp="1603733657981">
+    <state x="233" y="80" key="Vcs.Push.Dialog.v2" timestamp="1603735642695">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="233" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1603733657981" />
-    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603735316808">
+    <state x="233" y="80" key="Vcs.Push.Dialog.v2/0.0.1280.720@0.0.1280.720" timestamp="1603735642695" />
+    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1603735560108">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1603735316808" />
+    <state x="252" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1603735560108" />
     <state x="458" y="274" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603537752462">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
